@@ -1,6 +1,6 @@
 # Sul problema della misura e sulle decomposizioni paradossali nello spazio euclideo
 
-Presento qui il sorgente `tex` della mia tesi di laura, scritta per la laurea triennale in matematica presso l'Università degli Studi di Trento.
+Presento qui il sorgente `tex` della mia tesi, scritta per la laurea triennale in matematica presso l'Università degli Studi di Trento.
 
 Il pdf può essere scaricato da [qui](https://lucafrance.github.io/assets/2021/problema-della-misura.pdf). La tesi è anche consultabile online presso la [biblioteca universitaria](http://www5.unitn.it/Biblioteca/it/Web/Tesi) e ha segnatura `0515G-39`.
 
